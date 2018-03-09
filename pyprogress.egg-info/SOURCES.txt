@@ -1,0 +1,7 @@
+setup.cfg
+pyprogress/__init__.py
+pyprogress/progress.py
+pyprogress.egg-info/PKG-INFO
+pyprogress.egg-info/SOURCES.txt
+pyprogress.egg-info/dependency_links.txt
+pyprogress.egg-info/top_level.txt
