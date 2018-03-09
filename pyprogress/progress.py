@@ -10,4 +10,4 @@ class progress(object):
 			self.printPercent()
 			
 	def printPercent(self):
-		print(str(self.percent) + "%\r", end="", flush=True)
+		print(" " + str(self.percent) + "%\r", end="", flush=True)
